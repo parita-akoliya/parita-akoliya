@@ -9,7 +9,7 @@
 
 ## 🌟 About Me
 
-I am a passionate Frontend Developer with over 6 years of experience in building user-centric and scalable applications using **React**, **Angular**, and **JavaScript**. My goal is to create intuitive user interfaces that enhance user experience and engagement.
+I am a passionate Frontend Developer with over 6 years of experience in building user-centric and scalable applications using **React**, **Angular**, **Typescript** and **JavaScript**. My goal is to create intuitive user interfaces that enhance user experience and engagement.
 
 ---
 
