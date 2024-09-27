@@ -3,8 +3,7 @@
 ### Senior Frontend Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/parita-akoliya)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?style=flat&logo=twitter)](https://twitter.com/yourhandle)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/hjk1995)
 
 ---
 
