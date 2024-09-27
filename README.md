@@ -15,11 +15,11 @@ I am a passionate Frontend Developer with over 6 years of experience in building
 
 ## 💻 Technical Skills
 
-- **Languages:** JavaScript (ES6+), TypeScript, Java, HTML5, CSS3, SASS
-- **Frameworks:** Angular (2+, 8, 14, 16, 17), React, Node.js (Express)
+- **Languages:** JavaScript (ES6+), TypeScript, Java, HTML5, CSS3, SASS, Bootstrap
+- **Frameworks:** Angular (2+, 8,10,11,12,14, 16, 17), React, Node.js (Express)
 - **Testing Frameworks:** Jest, Mocha, Chai, Jasmine, Karma
 - **Databases:** MongoDB, SQL, MSSQL
-- **Tools & Platforms:** Git (GitHub, GitLab), Docker, Jenkins, JIRA, Trello
+- **Tools & Platforms:** Git (GitHub, GitLab,Bitbucket), Docker, Jenkins, JIRA, Trello,Azure
 
 ---
 
@@ -28,22 +28,27 @@ I am a passionate Frontend Developer with over 6 years of experience in building
 | Skill               | Rating       |
 |---------------------|--------------|
 | JavaScript          | ![Skill Level](https://img.shields.io/badge/Level-Expert-brightgreen) |
-| TypeScript          | ![Skill Level](https://img.shields.io/badge/Level-Intermediate-yellow) |
+| TypeScript          | ![Skill Level](https://img.shields.io/badge/Level-Expert-yellow) |
 | Angular             | ![Skill Level](https://img.shields.io/badge/Level-Advanced-orange) |
 | React               | ![Skill Level](https://img.shields.io/badge/Level-Advanced-orange) |
 | Node.js             | ![Skill Level](https://img.shields.io/badge/Level-Intermediate-yellow) |
 | CSS/SASS            | ![Skill Level](https://img.shields.io/badge/Level-Expert-brightgreen) |
-| UI/UX Design        | ![Skill Level](https://img.shields.io/badge/Level-Intermediate-yellow) |
+| UI/UX Design        | ![Skill Level](https://img.shields.io/badge/Level-Expert-yellow) |
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Achieved
 
-- Advanced React patterns
+- Advanced React Designing patterns
 - GraphQL for API integrations
 - Accessibility best practices
+- Security
+- Performance Optimization of App
+- Redux
 
----
+### 🌱 Currently Learning
+- AWS
+- Advance Concept in React
 
 ## 📫 Get in Touch
 
